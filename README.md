@@ -1,62 +1,64 @@
-# Hi, I'm Parvej 
+# Hi, I'm Parvej
 
 ### PHP Laravel Developer | Full-Stack Developer (MERN)
 
-I’m a PHP Laravel Developer with experience in building
-web applications and REST APIs.
+I’m a PHP Laravel Developer with experience in building web applications and REST APIs.
 
-I work primarily with Laravel, PHP, MySQL and JavaScript,
-and I’m also expanding my full-stack skills with React,
-Node.js and MongoDB.
+I work with Laravel, PHP, MySQL, JavaScript, React, Node.js and MongoDB, with a focus on building practical and scalable web applications.
 
 ## Tech Stack
 
-Backend
-- PHP
-- Laravel
-- NodeJs
-- ExpressJs
-- REST APIs
-- MySQL
-- MongoDB
-- Redis
+### Backend
 
-Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Bootstrap
+* PHP
+* Laravel
+* Node.js
+* Express.js
+* REST APIs
+* MySQL
+* MongoDB
+* Redis
 
-Other
-- Git & GitHub
-- Docker
-- Nginx
-- Laravel Reverb
-- Pusher
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Bootstrap
+
+### Tools & Technologies
+
+* Git & GitHub
+* Docker
+* Nginx
+* Laravel Reverb
+* Pusher
 
 ## Projects
 
 ### Customer–Agent Chat Application
-Laravel-based real-time chat application with:
-- Customer & agent communication
-- Real-time messaging
-- Online/offline status
-- Typing indicators
-- File & image attachments
+
+A Laravel-based real-time chat application featuring:
+
+* Customer and agent communication
+* Real-time messaging
+* Online/offline status
+* Typing indicators
+* Image and PDF attachments
 
 ### Library Management System
-A Laravel/PHP based library management application.
+
+A Laravel/PHP-based library management application.
 
 ## Currently Learning
 
-- Advanced Laravel
-- Real-time applications
-- Full-Stack development
-- System design & backend architecture
+* Advanced Laravel
+* Real-time applications
+* Full-Stack development
+* System design and backend architecture
 
 ## Connect With Me
 
-Email: developerparvejmohammad@gmail.com
+Email: [developerparvejmohammad@gmail.com](mailto:developerparvejmohammad@gmail.com)
 LinkedIn: https://www.linkedin.com/in/parvej-mohammad-9679361a4
-
