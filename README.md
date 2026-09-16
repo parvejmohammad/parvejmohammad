@@ -1,4 +1,4 @@
-# Hi, I'm Parvej 👋
+# Hi, I'm Parvej 
 
 ### PHP Laravel Developer | Full-Stack Developer
 
@@ -9,7 +9,7 @@ I work primarily with Laravel, PHP, MySQL and JavaScript,
 and I’m also expanding my full-stack skills with React,
 Node.js and MongoDB.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Backend
 - PHP
@@ -35,7 +35,7 @@ Other
 - Laravel Reverb
 - Pusher
 
-## 🚀 Projects
+## Projects
 
 ### Customer–Agent Chat Application
 Laravel-based real-time chat application with:
@@ -48,13 +48,13 @@ Laravel-based real-time chat application with:
 ### Library Management System
 A Laravel/PHP based library management application.
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced Laravel
 - Real-time applications
 - Full-Stack development
 - System design & backend architecture
 
-## 📫 Connect With Me
+## Connect With Me
 
 LinkedIn: ...
