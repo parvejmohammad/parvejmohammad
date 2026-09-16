@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Parvej 👋
 
-<!--
-**parvejmohammad/parvejmohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PHP Laravel Developer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I’m a PHP Laravel Developer with experience in building
+web applications and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work primarily with Laravel, PHP, MySQL and JavaScript,
+and I’m also expanding my full-stack skills with React,
+Node.js and MongoDB.
+
+## 🛠️ Tech Stack
+
+Backend
+- PHP
+- Laravel
+- REST APIs
+- MySQL
+- Redis
+
+Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
+
+Other
+- Git & GitHub
+- Docker
+- Nginx
+- Laravel Reverb
+- Pusher
+
+## 🚀 Projects
+
+### Customer–Agent Chat Application
+Laravel-based real-time chat application with:
+- Customer & agent communication
+- Real-time messaging
+- Online/offline status
+- Typing indicators
+- File & image attachments
+
+### Library Management System
+A Laravel/PHP based library management application.
+
+## 📚 Currently Learning
+
+- Advanced Laravel
+- Real-time applications
+- Full-Stack development
+- System design & backend architecture
+
+## 📫 Connect With Me
+
+LinkedIn: ...
