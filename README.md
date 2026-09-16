@@ -1,6 +1,6 @@
 # Hi, I'm Parvej 
 
-### PHP Laravel Developer | Full-Stack Developer
+### PHP Laravel Developer | Full-Stack Developer (MERN)
 
 I’m a PHP Laravel Developer with experience in building
 web applications and REST APIs.
@@ -57,4 +57,6 @@ A Laravel/PHP based library management application.
 
 ## Connect With Me
 
-LinkedIn: ...
+Email: developerparvejmohammad@gmail.com
+LinkedIn: https://www.linkedin.com/in/parvej-mohammad-9679361a4
+
