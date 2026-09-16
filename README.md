@@ -14,8 +14,11 @@ Node.js and MongoDB.
 Backend
 - PHP
 - Laravel
+- NodeJs
+- ExpressJs
 - REST APIs
 - MySQL
+- MongoDB
 - Redis
 
 Frontend
